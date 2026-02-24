@@ -1,0 +1,1 @@
+# gmail-unsubscribe-mcp: Servidor MCP para cancelar suscripciones de Gmail
