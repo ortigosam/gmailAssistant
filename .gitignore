@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Credentials and tokens (security)
+credentials.json
+token.json
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Pyright config (optional, but often user-specific)
+pyrightconfig.json
