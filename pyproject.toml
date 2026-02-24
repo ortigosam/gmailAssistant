@@ -5,6 +5,7 @@ description = "MCP server for desuscribe from emails"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "beautifulsoup4>=4.14.3",
     "google-api-python-client>=2.190.0",
     "google-auth>=2.48.0",
     "google-auth-httplib2>=0.3.0",
